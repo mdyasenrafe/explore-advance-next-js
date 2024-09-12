@@ -9,7 +9,9 @@ type TShoe = {
 };
 
 const page = async () => {
-  const res = await fetch("http://localhost:3004/shoes");
+  const res = await fetch("http://localhost:3004/shoes", {
+    cache: "no-store",
+  });
   const shoes = await res.json();
   console.log("response from shoes", shoes);
 

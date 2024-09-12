@@ -2,7 +2,7 @@
     "shoes": [
             {
               "id": 1,
-              "title": "Air Max 270",
+              "title": "Air Max 270 test",
               "description": "Lightweight sneakers with responsive cushioning and bold design.",
               "price": 150,
               "category": "Running"
