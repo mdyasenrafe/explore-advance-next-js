@@ -3,7 +3,7 @@ import React from "react";
 export default function page() {
   return (
     <div>
-      <h1 className="text-4xl text-center">this is next</h1>
+      <h1>This is create user page</h1>
     </div>
   );
 }
