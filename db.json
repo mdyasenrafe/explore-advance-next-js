@@ -1,0 +1,46 @@
+{
+    "shoes": [
+            {
+              "id": 1,
+              "title": "Air Max 270",
+              "description": "Lightweight sneakers with responsive cushioning and bold design.",
+              "price": 150,
+              "category": "Running"
+            },
+            {
+              "id": 2,
+              "title": "Adidas Ultraboost",
+              "description": "High-performance running shoes with energy return and primeknit upper.",
+              "price": 180,
+              "category": "Running"
+            },
+            {
+              "id": 3,
+              "title": "Nike Air Force 1",
+              "description": "Classic basketball-inspired low-top sneakers with premium leather.",
+              "price": 120,
+              "category": "Lifestyle"
+            },
+            {
+              "id": 4,
+              "title": "Puma RS-X",
+              "description": "Chunky retro-styled sneakers with breathable mesh upper and bold colors.",
+              "price": 110,
+              "category": "Lifestyle"
+            },
+            {
+              "id": 5,
+              "title": "New Balance 574",
+              "description": "Iconic casual shoes offering comfort and versatile style.",
+              "price": 85,
+              "category": "Casual"
+            },
+            {
+              "id": 6,
+              "title": "Asics Gel-Kayano 28",
+              "description": "Stability-focused running shoes with advanced gel cushioning technology.",
+              "price": 160,
+              "category": "Running"
+            }
+          ]
+ }
